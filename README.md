@@ -2,7 +2,7 @@
 ## Hi👋 I'am Lilac Milena
 ### A normal programmer,Like to study Python, PHP, JavaScript, Html and Nodejs
 
-[![Email](https://img.shields.io/badge/Email-sakura@muna.uk-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:sakura@muna.uk)
+[![Email](https://img.shields.io/badge/Email-lilac@muna.uk-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:lilac@muna.uk)
 [![Blog](https://img.shields.io/badge/Blog-blog.muna.uk-0E83CD?style=flat-square&logo=Hexo)](https://blog.muna.uk)
 
 ***
