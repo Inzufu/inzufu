@@ -11,7 +11,6 @@
 |:----:|:----:|:----:|:----:|
 |   Serverless and open source link shortener   |   Nodejs   |   [Magic-Link](https://github.com/lilac-milena/Magic-Link)   |   6   |
 |   Dingtalk playback download   |   Py   |    [Dingtalk-playback-download](https://github.com/lilac-milena/Dingtalk-playback-download)   |   5   |
-|   Openvpn deployment(Centos)   |   SH   |   [Openvpn-deployment](https://github.com/lilac-milena/Openvpn-deployment)   |   2   |
 
 ***
 ![info](https://github-readme-stats.vercel.app/api?username=lilac-milena&show_icons=true&count_private=true&hide=prs&theme=dark)
