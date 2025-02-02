@@ -6,12 +6,3 @@ A full-stack programmer.
 
 [![Email](https://img.shields.io/badge/Email-lilac@muna.uk-0078D4?style=flat-square&logo=Microsoft%20Outlook)](mailto:lilac@muna.uk)
 [![Blog](https://img.shields.io/badge/Blog-blog.muna.uk-0E83CD?style=flat-square&logo=Hexo)](https://blog.muna.uk)
-
-## 🎇My projects
-| Frendly Name | Language | Repositories |  Priority |
-|:----:|:----:|:----:|:----:|
-|   Serverless and open source link shortener   |   Nodejs   |   [Magic-Link](https://github.com/lilac-milena/Magic-Link)   |   6   |
-|   Dingtalk playback download   |   Py   |    [Dingtalk-playback-download](https://github.com/lilac-milena/Dingtalk-playback-download)   |   5   |
-
-![info](https://github-readme-stats.vercel.app/api?username=lilac-milena&show_icons=true&count_private=true&hide=prs&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilac-milena&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
